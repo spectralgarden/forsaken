@@ -1,3 +1,4 @@
+```
 ########   ######   #######    ######   ######   ##  ##   ########  ##    ##
 ##        ##    ##  ##    ##  ##       ##    ##  ##  ##   ##        ###   ##
 ######    ##    ##  #######    ######  ########  #####    ######    ####  ##
@@ -7,6 +8,8 @@
 Spectral Garden Studios Presents:        ASTRAL VOCAL PROCESSOR & DECAY SYSTEM
              Developed with JUCE 8.0.14 for Modern VST3 Environments
 ==============================================================================
+```
+
  User Manual & Spellbook
 Welcome to Forsaken. This manual is designed to help you navigate the dark, 
 ethereal, and unstable soundscapes of this processor.
